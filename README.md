@@ -5,4 +5,4 @@ The shell in this repo is specifically designed to answer a few questions about 
 It is a hack and is totally overfit for this one problem, and one problem only.
 
 Reference
-[Automation Challenges](https://github.com/meconlin/automation-challenges)
+[Automation Challenges](https://github.com/meconlin/automation-challenges/tree/master/log%20scraper)
